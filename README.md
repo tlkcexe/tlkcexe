@@ -1,52 +1,45 @@
-# ⚡ TLKC_WORKSPACE // ADMIN_PRIVILEGES
+**Software Engineer & Systems Architect**
 
-### `> whoami`
-Hi, I'm **TLKC**. I specialize in building secure command-line interfaces (CLIs), OSINT tools, and cryptographic utilities. My focus is on writing fast, efficient backend code—primarily in **Node.js/JavaScript** and **Java**—to automate reconnaissance, secure data, and build reusable software engines.
-
-### `> skills --list`
-- **Languages:** JavaScript (Node.js), Java
-- **Domains:** Cybersecurity, OSINT, Cryptography, CLI Development
-- **Techniques:** AES Encryption, Web Scraping, Hash Cracking, Dorking Automation
+Building end-to-end solutions across the entire software stack. Whether it is designing comprehensive web dashboards, developing fast command-line utilities, architecting game engines, or managing dedicated Linux servers, I focus on writing robust, scalable, and efficient code to solve complex problems in any domain.
 
 ---
 
-### `> ls -la ./cybersec-osint`
+### Featured Projects
 
-#### 🔍 [dorker-cli](https://github.com/tlkcexe/dorker-cli)
-Command-line tool for generating advanced Google dorks for OSINT and reconnaissance.
+#### Automation & CLI Utilities
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| **osint-terminal** | Fast, concurrent command-line tool for large-scale data gathering and analysis. | [GitHub](https://github.com/tlkcexe/osint-terminal) |
+| **dorker-cli** | Command-line utility for generating advanced search parameters and automating web reconnaissance. | [GitHub](https://github.com/tlkcexe/dorker-cli) |
+| **email-hunter** | CLI tool designed for automating the discovery and extraction of publicly available data. | [GitHub](https://github.com/tlkcexe/email-hunter) |
+| **hash-cracker** | Backend utility demonstrating high-speed data processing and brute-force methodologies. | [GitHub](https://github.com/tlkcexe/hash-cracker) |
 
-#### 🕵️‍♂️ [osint-terminal](https://github.com/tlkcexe/osint-terminal)
-OSINT command-line tool for gathering and analyzing open-source intelligence data.
+#### Backend & Secure Storage
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| **vault-cli** | Lightweight CLI tool for encrypting and securely managing sensitive data files using AES-256. | [GitHub](https://github.com/tlkcexe/vault-cli) |
+| **stealth-notes** | Secure, terminal-based data storage system featuring robust credential encryption. | [GitHub](https://github.com/tlkcexe/stealth-notes) |
 
-#### 📧 [email-hunter](https://github.com/tlkcexe/email-hunter)
-CLI tool for discovering publicly available email addresses across various sources.
-
----
-
-### `> ls -la ./crypto-security`
-
-#### 🔐 [vault-cli](https://github.com/tlkcexe/vault-cli)
-Simple CLI tool for securely storing and managing sensitive data.
-
-#### 📝 [stealth-notes](https://github.com/tlkcexe/stealth-notes)
-Secure CLI-based note storage with encryption for sensitive data and credentials.
-
-#### 💥 [hash-cracker](https://github.com/tlkcexe/hash-cracker)
-Simple CLI tool for cracking hashes using wordlists and common attack techniques.
+#### Architecture & Engines
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| **Portfolio Control Center** | Custom-built admin dashboard running on a dedicated Oracle VM, featuring PM2 management and Discord bot hosting. | [GitHub](https://github.com/tlkcexe/portfolio) |
+| **PorkEngine** | A reusable, data-driven engine architecture designed for text-based adventure games, built entirely in Java. | [GitHub](https://github.com/tlkcexe/PorkEngine) |
 
 ---
 
-### `> ls -la ./engines`
+### Technical Arsenal
 
-#### 🕹️ [PorkEngine](https://github.com/tlkcexe/PorkEngine)
-A reusable, data-driven engine for text-based adventure games built in Java.
-
----
-
-### `> system_status`
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlkcexe&theme=radical&show_icons=true&hide_border=true&bg_color=050505&text_color=ffffff&icon_color=5865F2&title_color=5865F2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tlkcexe&theme=radical&layout=compact&hide_border=true&bg_color=050505&text_color=ffffff&title_color=5865F2)
+* **Core Languages:** JavaScript (Node.js, React.js), Java, SQL, Bash.
+* **Systems & Infrastructure:** Oracle Linux (Ubuntu VM), PM2 Daemon Management, Server Deployment & Networking.
+* **Architecture & Domains:** Full-Stack Web Development, CLI & Tooling Automation, Data Cryptography, Custom Game Engines.
+* **Databases:** SQLite, Relational Database Design, Data Modeling.
 
 ---
-*`"Privacy is not an option, and it shouldn't be the price we accept for just getting on the Internet."`*
+
+### GitHub Activity
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tlkcexe&theme=transparent&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=5865F2&title_color=5865F2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlkcexe&theme=transparent&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=5865F2" alt="Top Languages" />
+</div>
