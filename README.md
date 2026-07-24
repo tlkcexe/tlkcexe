@@ -1,174 +1,81 @@
-**Software Engineer & Systems Architect**
+# tlkc
 
-Building end-to-end solutions across the entire software stack. Whether it is designing comprehensive web dashboards, developing fast command-line utilities, architecting game engines, or managing dedicated Linux servers, I focus on writing robust, scalable, and efficient code to solve complex problems in any domain.
+Software engineer working across backend architecture, authentication, and full-stack systems. I build the parts of an application most people would rather not think about — session lifecycles, access control, the failure paths — and treat them as the actual product, not the plumbing underneath it.
 
----
-
-### Featured Projects
-
-#### Automation & CLI Utilities
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%" align="left">Project</th>
-      <th width="60%" align="left">Description</th>
-      <th width="10%" align="center">Language</th>
-      <th width="10%" align="center">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>osint-terminal</b></td>
-      <td>Fast, concurrent command-line tool for large-scale data gathering and analysis.</td>
-      <td align="center">Node.js</td>
-      <td align="center"><a href="https://github.com/tlkcexe/osint-terminal">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>dorker-cli</b></td>
-      <td>Command-line utility for generating advanced search parameters and automating web reconnaissance.</td>
-      <td align="center">Node.js</td>
-      <td align="center"><a href="https://github.com/tlkcexe/dorker-cli">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>email-hunter</b></td>
-      <td>CLI tool designed for automating the discovery and extraction of publicly available data.</td>
-      <td align="center">Node.js</td>
-      <td align="center"><a href="https://github.com/tlkcexe/email-hunter">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>hash-cracker</b></td>
-      <td>Backend utility demonstrating high-speed data processing and brute-force methodologies.</td>
-      <td align="center">Node.js</td>
-      <td align="center"><a href="https://github.com/tlkcexe/hash-cracker">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>netstriker</b></td>
-      <td>Fast, dependency-free concurrent port scanner utilizing native multi-threading.</td>
-      <td align="center">Python</td>
-      <td align="center"><a href="https://github.com/tlkcexe/netstriker">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>Log-Reaper</b></td>
-      <td>Automated script designed for safe log archiving, compression, and retention management.</td>
-      <td align="center">Bash</td>
-      <td align="center"><a href="https://github.com/tlkcexe/log-reaper">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>Net-Spectre</b></td>
-      <td>Native utility for endpoint network auditing, mapping active TCP connections to running processes.</td>
-      <td align="center">PowerShell</td>
-      <td align="center"><a href="https://github.com/tlkcexe/net-spectre">GitHub</a></td>
-    </tr>
-  </tbody>
-</table>
-
-#### Backend, Data Security & Cryptography
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%" align="left">Project</th>
-      <th width="60%" align="left">Description</th>
-      <th width="10%" align="center">Language</th>
-      <th width="10%" align="center">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>vault-cli</b></td>
-      <td>Lightweight CLI tool for encrypting and securely managing sensitive data files using AES-256.</td>
-      <td align="center">Node.js</td>
-      <td align="center"><a href="https://github.com/tlkcexe/vault-cli">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>stealth-notes</b></td>
-      <td>Secure, terminal-based data storage system featuring robust credential encryption.</td>
-      <td align="center">Node.js</td>
-      <td align="center"><a href="https://github.com/tlkcexe/stealth-notes">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>Crypto-Shredder</b></td>
-      <td>Memory-safe utility that irreversibly destroys sensitive files using multi-pass sector overwriting.</td>
-      <td align="center">Rust</td>
-      <td align="center"><a href="https://github.com/tlkcexe/crypto-shredder">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>Cipher-Forge</b></td>
-      <td>Client-side offline cryptographic key generator utilizing the Web Crypto API for true entropy.</td>
-      <td align="center">JavaScript</td>
-      <td align="center"><a href="https://github.com/tlkcexe/cipher-forge">GitHub</a></td>
-    </tr>
-  </tbody>
-</table>
-
-#### Architecture & Engines
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%" align="left">Project</th>
-      <th width="60%" align="left">Description</th>
-      <th width="10%" align="center">Language</th>
-      <th width="10%" align="center">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Portfolio Control</b></td>
-      <td>Custom-built admin dashboard running on a dedicated Oracle VM, featuring PM2 management.</td>
-      <td align="center">Node.js</td>
-      <td align="center"><a href="https://github.com/tlkcexe/portfolio">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>PorkEngine</b></td>
-      <td>A reusable, data-driven engine architecture designed for text-based adventure games.</td>
-      <td align="center">Java</td>
-      <td align="center"><a href="https://github.com/tlkcexe/PorkEngine">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>Service-Sentinel</b></td>
-      <td>Highly concurrent API and website health checker utilizing Goroutines for speed.</td>
-      <td align="center">Go</td>
-      <td align="center"><a href="https://github.com/tlkcexe/service-sentinel">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>SysMon-Core</b></td>
-      <td>Low-level Linux system monitor interacting directly with kernel interfaces (/proc).</td>
-      <td align="center">C++</td>
-      <td align="center"><a href="https://github.com/tlkcexe/sysmon-core">GitHub</a></td>
-    </tr>
-  </tbody>
-</table>
-
-#### DevOps & CI/CD Infrastructure
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%" align="left">Project</th>
-      <th width="60%" align="left">Description</th>
-      <th width="10%" align="center">Language</th>
-      <th width="10%" align="center">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Repo-Guardian</b></td>
-      <td>Serverless GitHub Actions pipeline for automated codebase secret scanning and shell linting.</td>
-      <td align="center">YAML</td>
-      <td align="center"><a href="https://github.com/tlkcexe/repo-guardian">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>Phantom-Grid</b></td>
-      <td>Infrastructure as Code (IaC) blueprint demonstrating secure microservices and network isolation.</td>
-      <td align="center">Docker</td>
-      <td align="center"><a href="https://github.com/tlkcexe/phantom-grid">GitHub</a></td>
-    </tr>
-  </tbody>
-</table>
+Two projects anchor this profile. Everything else here is in support of them.
 
 ---
 
-### Technical Expertise
+## Flagship Projects
 
-**Core Languages:** Rust, C++, Go, Python, Java, JavaScript (Node.js)  
-**Scripting & Shell:** Bash, PowerShell  
-**Infrastructure & DevOps:** Docker, Docker Compose, GitHub Actions, Nginx  
-**Operating Systems:** Linux (Oracle/Ubuntu), Windows Server Environments
+### KeyHold — an authentication system, not an auth demo
+
+Most "auth starter" repositories are a login form wired to `localStorage`. **KeyHold** is what that login form should be sitting on top of: a token lifecycle that can be revoked, a password path that resists brute-forcing, and a session model that survives a stolen cookie.
+
+The design decisions are deliberate, not default:
+
+- **Two tokens, one tradeoff resolved.** A single long-lived JWT can't be revoked before it expires — that's the cost of statelessness. KeyHold splits the session into a short-lived, stateless access token and a long-lived, database-backed refresh token, keeping fast no-database-hit checks on every request while still being able to kill a session on logout, password change, or theft.
+- **Reuse is treated as an incident, not an edge case.** Refresh tokens rotate on every use. If a token that's already been rotated past shows up again, that's a signature of a stolen token — and the response is to revoke the entire session family, not just flag the one token.
+- **Nothing sensitive touches `localStorage`.** The access token lives in memory and disappears on reload; the refresh token sits in an `HttpOnly`, `SameSite` cookie scoped to the auth path. A single XSS bug in a dependency can't exfiltrate a session.
+- **Enforced twice, trusted once.** Route protection and role checks are implemented independently on both the API and the client — neither side assumes the other got it right.
+
+Passwords hashed with argon2id, refresh tokens stored hashed, rate limiting on every auth endpoint, no account enumeration, and an error handler that never leaks a stack trace. Fully typed, strict-mode TypeScript on both ends, with live Swagger docs and a one-command Docker setup.
+
+**Stack:** Node.js · Express · PostgreSQL · Prisma · React · TypeScript · Docker
+
+**[View repository →](https://github.com/tlkcexe/keyhold)**
+
+<br>
+
+### Facet — a storefront built on top of KeyHold as a hard boundary
+
+**Facet** is an eCommerce platform that treats identity the way a real product would: as someone else's problem, integrated at arm's length. Facet's own API never sees a password, never issues a session, and never stores a user table — it trusts a JWT signed by KeyHold and verifies it locally, the same shape of integration you'd build against Auth0 or Clerk.
+
+That constraint is the point. It forces a clean service boundary instead of the usual portfolio-project shortcut of bolting `next-auth` onto a shop with no real separation of concerns.
+
+What makes it worth a second look:
+
+- **Facet Compare** — pin up to three products and see price, stock, and specs lined up side by side, with the best value highlighted automatically. Most storefront clones skip this entirely; it's the feature Facet leads with.
+- **A command palette, not just a search bar.** Press `⌘K` to jump anywhere or search the live catalog without touching the mouse — the kind of interaction detail that separates a SaaS-grade UI from a CRUD demo.
+- **A cart that survives more than a page refresh.** Persisted state, an animated slide-over drawer instead of a page redirect, and sync across devices on login.
+- **A trust boundary you can actually verify.** Facet's `requireAuth` middleware checks the JWT signature locally against a secret shared with KeyHold — no network round-trip on the hot path, no ambiguity about who owns identity.
+
+Next.js 14 App Router on the frontend, Express and Prisma on the backend, Framer Motion running through every interaction instead of bolted on as an afterthought. Docker-ready, unit tested, documented.
+
+**Stack:** Next.js · TypeScript · Express · PostgreSQL · Prisma · Tailwind CSS · Framer Motion · Docker
+
+**[View repository →](https://github.com/tlkcexe/facet)**
+
+---
+
+## Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Crypto-Shredder](https://github.com/tlkcexe/crypto-shredder) | Memory-safe utility for irreversible file destruction via multi-pass overwriting | Rust |
+| [Service-Sentinel](https://github.com/tlkcexe/service-sentinel) | Concurrent API and website health checker built on Goroutines | Go |
+| [SysMon-Core](https://github.com/tlkcexe/sysmon-core) | Low-level Linux system monitor reading directly from kernel interfaces | C++ |
+| [vault-cli](https://github.com/tlkcexe/vault-cli) | CLI tool for encrypting and managing sensitive data with AES-256 | Node.js |
+| [PorkEngine](https://github.com/tlkcexe/PorkEngine) | Reusable, data-driven engine for text-based adventure games | Java |
+| [Phantom-Grid](https://github.com/tlkcexe/phantom-grid) | Infrastructure-as-code blueprint for isolated microservice networks | Docker |
+
+---
+
+## Tech Stack
+
+**Languages** — Rust · Go · TypeScript · JavaScript · Java · Python · C++
+**Backend** — Node.js · Express · PostgreSQL · Prisma · REST API design · JWT-based auth
+**Frontend** — React · Next.js · Tailwind CSS · Framer Motion
+**Infrastructure** — Docker · Docker Compose · GitHub Actions · Nginx · Linux administration
+
+---
+
+## How I build
+
+A system is only as trustworthy as its failure paths. I spend more time on what happens when a token is stolen, a request is malformed, or a dependency lies than on what happens when everything goes right — because the happy path was never the hard part.
+
+That means threat-modeling before wiring up the UI, keeping services small enough to read in one sitting, and drawing boundaries between components deliberately rather than letting them blur over time. Code that's easy to trust six months from now is the actual deliverable — everything else is just the interface to it.
+
+---
+
+[GitHub](https://github.com/tlkcexe) · [LinkedIn](https://www.linkedin.com/in/archatz/)
